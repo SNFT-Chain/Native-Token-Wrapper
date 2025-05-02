@@ -13,9 +13,9 @@ Use https://remix.ethereum.org
 
 2-Replace Network Data:
 
-const CHAIN_ID 
-const RPC_URL 
-const CONTRACT_ADDRESS 
+const CHAIN_ID ,
+const RPC_URL ,
+const CONTRACT_ADDRESS ,
 const EXPLORER_URL 
 
 /src/context/Web3Context.tsx
